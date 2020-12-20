@@ -1,13 +1,9 @@
 
 # Puppet Professional Certification Resources
 
-Online resources that will help you prepare for taking the Puppet Professional Certification exam.
-
-### NOTE: I am not actively using Puppet right now, but I am happy to manage this page. If you have forked this repo and wish to make a pull request for the benefit of other people, please feel free to do so.
-
 ## Exam Objectives
 
-These are the exam objectives you review and understand in order to pass the test. 
+These are the exam objectives to review and understand in order to pass the test. 
 
 ### Language
 
@@ -153,15 +149,3 @@ These are the exam objectives you review and understand in order to pass the tes
 
 * [Managing code with Code Manager](https://puppet.com/docs/pe/latest/code_mgr.html)
 
-## Puppet Courses and Training
-
-Here are courses you can enroll to get up to speed with Puppet.
-
-### Official
-
-* [Puppet Fundamentals instructor-led training](https://learn.puppet.com/instructor-led-training/puppet-fundamentals)
-* [Puppet Practitioner instructor-led training](https://learn.puppet.com/instructor-led-training/puppet-practitioner)
-
-### Third Party
-* [Learning Puppet DevOps Deployment (Puppet Professional Cert)](https://linuxacademy.com/devops/training/course/name/learning-puppet)
-* [Puppet Fundamentals for Systems Administrators](http://www.pluralsight.com/courses/puppet-system-administrators-fundamentals)
